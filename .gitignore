@@ -1,0 +1,9 @@
+﻿# Archivos temporales y de configuración de Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.db
+bin/
+obj/
